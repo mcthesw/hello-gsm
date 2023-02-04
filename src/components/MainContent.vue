@@ -18,7 +18,7 @@ import DownloadArea from './DownloadArea.vue'
         </el-col>
         <el-col :xs="24" :sm="24" :md="16" :lg="16" :xl="16">
             <div class="grid-content">
-                <img src="gsm-main-ui.png" alt="screenshot of game-save-manager" />
+                <img src="../assets/gsm-main-ui.png" alt="screenshot of game-save-manager" />
             </div>
         </el-col>
     </ElRow>

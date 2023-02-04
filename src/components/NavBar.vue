@@ -5,7 +5,7 @@
 <template>
     <nav class="top-nav">
         <ul>
-            <li><img src="electron.jpg" alt="icon"/></li>
+            <li><img src="../assets/electron.jpg" alt="icon"/></li>
             <li><a href="">游戏存档管理器</a></li>
             <li>在线尝试（未完工）</li>
             <li class="flex-grow"></li>

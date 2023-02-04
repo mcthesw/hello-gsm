@@ -21,7 +21,7 @@ let info = [
     <div class="detail-info-list">
         <ElRow class="detail-info" id="liked" :gutter="20">
             <ElCol :xs="24" :sm="24" :md="6" :lg="6" :xl="6">
-                <img src="pic1.png"/>
+                <img src="../assets/pic1.png"/>
             </ElCol>
             <ElCol :xs="24" :sm="24" :md="18" :lg="18" :xl="18">
                 <h1>受玩家喜爱</h1>
@@ -46,12 +46,12 @@ let info = [
                 </p>
             </ElCol>
             <ElCol :xs="24" :sm="24" :md="6" :lg="6" :xl="6">
-                <img src="pic2.png"/>
+                <img src="../assets/pic2.png"/>
             </ElCol>
         </ElRow>
         <ElRow class="detail-info" id="open" :gutter="20">
             <ElCol :xs="24" :sm="24" :md="6" :lg="6" :xl="6">
-                <img src="pic3.png"/>
+                <img src="../assets/pic3.png"/>
             </ElCol>
             <ElCol :xs="24" :sm="24" :md="18" :lg="18" :xl="18">
                 <h1>提出问题，解决它</h1>
@@ -65,7 +65,7 @@ let info = [
         <ElRow class="detail-info" id="about" :gutter="20">
             <ElCol :xs="24" :sm="24" :md="12" :lg="12" :xl="12">
                 <el-card :body-style="{ padding: '0px' }">
-                    <img src="my-slime.png" class="my-avatar" />
+                    <img src="../assets/my-slime.png" class="my-avatar" />
                     <div style="padding: 14px">
                         <span>Sworld</span>
                         <div class="bottom">
